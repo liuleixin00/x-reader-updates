@@ -1,1 +1,1 @@
-{"versionCode":6345,"sha256":"81b2e17803c36e8a934fe4d0e7f0806674e738d01ec19a0674db64d998e7c749","notes":"修复 AI 空白页、朗读分页与在线 TTS 预读；暂停时清除未播放的预读音频，减少模型消耗。","version":"1.15.4","apkUrl":"https://github.com/liuleixin00/x-reader-updates/releases/download/v1.15.4/app-release.apk"}
+{"version":"1.15.5","versionCode":6346,"sha256":"20a6a5144a5b2af680fb63cedf8d5fa8584ecf54907f103fecd0f99b82a922af","apkUrl":"https://github.com/liuleixin00/x-reader-updates/releases/download/v1.15.5/app-release.apk","notes":"修复在线 TTS 重复朗读与自动翻页异常；优化 Android 图标、首页标题和 AI 设置页。"}

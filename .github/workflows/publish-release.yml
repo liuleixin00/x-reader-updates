@@ -1,0 +1,29 @@
+name: Publish X Reader APK release
+
+on:
+  push:
+    tags:
+      - 'v*'
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out tagged files
+        uses: actions/checkout@v4
+
+      - name: Create GitHub Release and upload APK
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          version="${GITHUB_REF_NAME#v}"
+          apk="x-reader-${version}.apk"
+          test -f "$apk"
+          gh release create "$GITHUB_REF_NAME" "$apk" \
+            --title "X Reader $version" \
+            --generate-notes

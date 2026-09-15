@@ -1,7 +1,7 @@
 {
   "version": "1.15.2",
   "versionCode": 6343,
-  "apkUrl": "https://raw.githubusercontent.com/liuleixin00/x-reader-updates/main/x-reader-1.15.2.apk",
+  "apkUrl": "https://github.com/liuleixin00/x-reader-updates/releases/download/v1.15.2/x-reader-1.15.2.apk",
   "sha256": "eb31125a4a2f267f2256d7b695fbb698b99be8e38fe391fd92c7fdc530851567",
   "notes": "修复 GitHub Raw 更新清单解析失败的问题。"
 }

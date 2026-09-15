@@ -1,1 +1,1 @@
-{"version":"1.15.5","versionCode":6346,"sha256":"20a6a5144a5b2af680fb63cedf8d5fa8584ecf54907f103fecd0f99b82a922af","apkUrl":"https://github.com/liuleixin00/x-reader-updates/releases/download/v1.15.5/app-release.apk","notes":"修复在线 TTS 重复朗读与自动翻页异常；优化 Android 图标、首页标题和 AI 设置页。"}
+{"apkUrl":"https://github.com/liuleixin00/x-reader-updates/releases/download/v1.15.6/app-release.apk","notes":"补回 Android 原生 APK 安装功能，修复检测到更新后无法进入系统安装界面的问题。","versionCode":6347,"sha256":"d10c7dea9ad0df66b301012faf830d28283c963a2bae27512b2421e5f6ac0f88","version":"1.15.6"}

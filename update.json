@@ -1,7 +1,7 @@
 {
   "version": "1.15.0",
   "versionCode": 6341,
-  "apkUrl": "https://github.com/liuleixin00/x-reader-updates/releases/download/v1.15.0/anx-reader-1.15.0.apk",
+  "apkUrl": "https://raw.githubusercontent.com/liuleixin00/x-reader-updates/main/anx-reader-1.15.0.apk",
   "sha256": "d0ec0885afd471dc57b54b15b2b1f912bcf0262957616edd30b45fedfb80e99b",
   "notes": "首个 GitHub 发布版，包含 Qwen TTS、朗读连续播放和锁屏后台朗读优化。"
 }

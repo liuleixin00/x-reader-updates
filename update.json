@@ -1,7 +1,1 @@
-{
-  "version": "1.15.2",
-  "versionCode": 6343,
-  "apkUrl": "https://github.com/liuleixin00/x-reader-updates/releases/download/v1.15.2/x-reader-1.15.2.apk",
-  "sha256": "eb31125a4a2f267f2256d7b695fbb698b99be8e38fe391fd92c7fdc530851567",
-  "notes": "修复 GitHub Raw 更新清单解析失败的问题。"
-}
+{"versionCode":6345,"sha256":"81b2e17803c36e8a934fe4d0e7f0806674e738d01ec19a0674db64d998e7c749","notes":"修复 AI 空白页、朗读分页与在线 TTS 预读；暂停时清除未播放的预读音频，减少模型消耗。","version":"1.15.4","apkUrl":"https://github.com/liuleixin00/x-reader-updates/releases/download/v1.15.4/app-release.apk"}

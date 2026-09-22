@@ -1,1 +1,1 @@
-{"apkUrl":"https://github.com/liuleixin00/x-reader-updates/releases/download/v1.15.6/app-release.apk","notes":"补回 Android 原生 APK 安装功能，修复检测到更新后无法进入系统安装界面的问题。","versionCode":6347,"sha256":"d10c7dea9ad0df66b301012faf830d28283c963a2bae27512b2421e5f6ac0f88","version":"1.15.6"}
+{"version":"1.15.7","versionCode":6348,"apkUrl":"https://github.com/liuleixin00/x-reader-updates/releases/download/v1.15.7/app-release.apk","sha256":"65be1492a35e40727fdbe66a7e870000ce0639a1b5c5ed6c552f531de767762f","notes":"新增 Qwen TTS 3.1 Flash 模型与对应音色，更新 X Reader 图标并适配 Android 自适应图标。"}

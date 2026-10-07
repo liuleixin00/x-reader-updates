@@ -1,1 +1,1 @@
-{"version":"1.15.7","versionCode":6348,"apkUrl":"https://github.com/liuleixin00/x-reader-updates/releases/download/v1.15.7/app-release.apk","sha256":"65be1492a35e40727fdbe66a7e870000ce0639a1b5c5ed6c552f531de767762f","notes":"新增 Qwen TTS 3.1 Flash 模型与对应音色，更新 X Reader 图标并适配 Android 自适应图标。"}
+{"version":"1.15.8","versionCode":6349,"apkUrl":"https://github.com/liuleixin00/x-reader-updates/releases/download/v1.15.8/app-release.apk","sha256":"2ca5bf62c0b9dd9efd9d166f3d6907b249417ef4aa5a4d3e270216434173d911","notes":"修复 AI 页面空白问题；修复朗读停止定时器离开设置页面后失效的问题。"}

@@ -1,1 +1,1 @@
-{"version":"1.15.9","versionCode":6350,"apkUrl":"https://github.com/liuleixin00/x-reader-updates/releases/download/v1.15.9/app-release.apk","sha256":"3ad45f78a4dbcb46458c333e60d65a1c233adccbd50bd7daf04c8bdb447c62b4","notes":"修复 AI 页面打开后显示灰白空白的问题；修复 AI 设置页面导航稳定性。"}
+{"version":"1.15.10","versionCode":6351,"apkUrl":"https://github.com/liuleixin00/x-reader-updates/releases/download/v1.15.10/app-release.apk","sha256":"92DBAB10D7EFB2DCDEC643C8A609C0E25FFCB0966C54551C56D9895EDF68181B","notes":"新增 M3U8/HLS 视频播放器；首页底部设置入口改为更多，播放器移入更多页面；支持播放控制、全屏和可选请求头。"}

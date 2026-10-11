@@ -1,1 +1,1 @@
-{"version":"1.15.13","versionCode":6354,"apkUrl":"https://github.com/liuleixin00/x-reader-updates/releases/download/v1.15.13/app-release.apk","sha256":"69e6b0b954600a8987d8ed843ff050157e7ffb7ea116562de9ce3c176f003fa7","notes":"1. 修正「在线书源」默认网址为 zh-library.sk；2. 「在线书源」改为原生内置浏览器打开，修复从书源返回设置页时的卡顿问题。"}
+{"version":"1.15.14","versionCode":6355,"apkUrl":"https://github.com/liuleixin00/x-reader-updates/releases/download/v1.15.14/app-release.apk","sha256":"b26b95ed4972394621931a37e80e1fce90851a564d156e823620eb7a2d8a2405","notes":"修正「在线书源」默认网址为 zh.z-library.sk（旧域名无法解析，导致提示网页打不开）。"}
